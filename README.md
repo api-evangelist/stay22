@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stay22 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://stay22.com/
+Stay22 is a travel‑tech platform that helps publishers, event organizers, and transportation services monetize travel intent by providing affiliate links, interactive maps, and a direct travel API. It offers products such as Allez affiliate links, interactive maps, Nova and Spark recommendation widgets, and a reporting API for transaction data. The company originated from a need to simplify hotel discovery for e‑sports events and now serves a global audience across media and travel industries.
+
+**Areas:** TravelTech · AffiliateMarketing · SaaS · Events · Maps
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://stay22.com/)
+- [Documentation](https://dev.stay22.com/docs)
+- [Getting started](https://dev.stay22.com/docs/api/quickstart)
+- [API reference](https://dev.stay22.com/docs/api)
+- [Sign up](https://hub.stay22.com/signup)
+- [Support](https://www.stay22.com/contact-us)
+- [Blog](https://blog.stay22.com)
+- [Security](https://stay22.com/bugbounty)
+- [Terms of service](https://www.stay22.com/terms)
+- [Privacy policy](https://www.stay22.com/privacy)
+- [GitHub](https://github.com/Stay22)
+- [Status](https://status.stay22.com/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/stay22/](https://apis.io/providers/stay22/).
