@@ -68,6 +68,59 @@ Stay22 is a travel‑tech platform that helps publishers, event organizers, and 
 
 **Areas:** TravelTech · AffiliateMarketing · SaaS · Events · Maps
 
+## Stay22 on APIs.io
+
+Everything profiled for Stay22 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/stay22/](https://apis.io/providers/stay22/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Stay22 API](https://apis.io/apis/stay22/stay22-api-2/) — Stay22 provides an affiliate link API, interactive maps, and a reporting API for transaction data.
+- [Stay22 API](https://apis.io/apis/stay22/stay22-api/) — Stay22 API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-10-28); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [GetV1ReportingTransactionsResponse](https://apis.io/schemas/stay22/stay22-get-v1-reporting-transactions-response/)
+- [GetV2AccommodationsResponse](https://apis.io/schemas/stay22/stay22-get-v2-accommodations-response/)
+- [GetV3AccommodationsResponse](https://apis.io/schemas/stay22/stay22-get-v3-accommodations-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Stay22 Context](https://apis.io/jsonld/stay22/stay22-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Stay22 API Rules](https://apis.io/rules/stay22/stay22-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Stay22 Authentication](https://apis.io/security/stay22/stay22-authentication/)
+- [Stay22 Domain Security](https://apis.io/security/stay22/stay22-domain-security/)
+- [Stay22 Vulnerability Disclosure](https://apis.io/security/stay22/stay22-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Stay22 Plans Pricing](https://apis.io/plans/stay22/stay22-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Stay22 Rate Limits](https://apis.io/rate-limits/stay22/stay22-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -85,8 +138,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [GitHub](https://github.com/Stay22)
 - [Status](https://status.stay22.com/)
 
-**APIs profiled:** 2
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/stay22/](https://apis.io/providers/stay22/).
+**Kin Score 59.5** — strong · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 53.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 60.0 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 34.2 |
+
+**Agent readiness 26.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/stay22/](https://apis.io/providers/stay22/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Stay22: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/stay22/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
